@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Bunny - Basis Switching Platformer",
+  "description": "An original 2D retro pixel-art platform puzzle game teaching quantum basis switching and measurement scrambling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
